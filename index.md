@@ -1,37 +1,115 @@
-## Welcome to GitHub Pages
+# Altynai Nurkamilova 
+![Altynai Nurkamilova](/img/altynai.jpg "Altynai Nurkamilova")
 
-You can use the [editor on GitHub](https://github.com/altynaynurkamilova/school-cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ _Drupal developer based in Bishkek, Kyrgyzstan_ <br>
 
-### Markdown
+[Email](mailto:altynaynurkamilova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/altynaynurkamilova/) / [GitHub](https://github.com/altynaynurkamilova/) / [Telegram](https://t.me/altynayna/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+## 👩🏼‍🎓 Education
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Kyrgyz-Russian Slavic University, Bishkek, Kyrgyzstan**
+----------------------------------------------------------------------------------------------------------------
+Natural and Engineering Sciences Faculty (IT),                                   🗓️ September 2004 – June 2010
+major in Software for Computers and Automated Systems                            🇰🇬 Bishkek, Kyrgyzstan
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## 👩🏼‍💻 Experience
+```markdown
 
-### Jekyll Themes
+**Unison Consulting LLC** 
+----------------------------------------------------------------------------------------------------------------
+Testing system and online registry development,                                 🗓️ March 2021 – January 2022
+on CMS Drupal 7.                                                                🇰🇬 Bishkek, Kyrgyzstan
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/altynaynurkamilova/school-cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+```
 
-### Support or Contact
+```markdown
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Open Government Partnership Kyrgyzstan** 
+----------------------------------------------------------------------------------------------------------------
+Web site development,                                                           🗓️ July 2017 – January 2018
+on CMS Drupal 7.                                                                🇰🇬 Bishkek, Kyrgyzstan
+
+```
+
+```markdown
+
+**Group of Companies «Bionica»** 
+----------------------------------------------------------------------------------------------------------------
+Remote web developer, Development of corporate websites                         🗓️ July 2017 – January 2018
+on CMS Drupal 7-8.                                                              🇷🇺 Moscow, Russia
+
+```
+
+```markdown
+
+**LLC «Forte», agency of the integrated marketing communications** 
+----------------------------------------------------------------------------------------------------------------
+Remote web developer                                                            🗓️ September 2012  – 2020
+Development of corporate websites with integration of third-party resources     🇷🇺 Moscow, Russia
+                                                              
+```
+
+```markdown
+
+**«Orangeweb», web sites developing company** 
+----------------------------------------------------------------------------------------------------------------
+Web developer                                                                   🗓️ October 2009 – April 2012
+Designed and managed web-sites on base of Drupal CMS platform                   🇰🇬 Bishkek, Kyrgyzstan
+Developing Drupal API modules
+Technical support of web-sites, troubleshooting                                                              
+
+```
+
+## 📜 Certificates
+```markdown
+
+**🗓️ November 2018 - December 2018 (🇺🇸 USA)** 
+----------------------------------------------------------------------------------------------------------------
+Certificate on successful completion of “International visitor leadership program on Maker Movement in STEM”, 
+organized by United States Department of State Bureau of Educational and Cultural Affairs                                                                
+```
+
+```markdown
+
+**🗓️ May 2017 - June 2017 (🇮🇱 Haifa, Israel)** 
+----------------------------------------------------------------------------------------------------------------
+Certificate on successful completion of Course “Information and communication technologies (ICT) and women
+entrepreneurship”, organized by MCTC The Golda Meir Mashav "Carmel" International Training Center                                                                
+```
+
+```markdown
+
+**🗓️ January 2007 (🇰🇬 Bishkek, Kyrgyzstan)** 
+----------------------------------------------------------------------------------------------------------------
+Certificate on successful completion of Project “Vitline”, 
+organized by AIESEC KYRGYZSTAN - YOUTH LEADERSHIP PROGRAMM THROUGH CULTURAL EXCHANGE
+Job competition - developing web-site    
+
+```
+
+## 🌐 Languages
+```markdown
+
+🇷🇺 Russian - fluent
+🇰🇬 Kyrgyz – native
+🇺🇸 English – fluent
+🇫🇷 French - beginner’s level    
+
+```
+
+## ⚡ Skills
+
+```markdown
+
+💠 Drupal 6 - 8
+💠 PHP
+💠 HTML & CSS
+💠 MySql 
+💠 Twig
+💠 Scss
+💠 Git
+
+```
