@@ -1,10 +1,12 @@
-# Altynai Nurkamilova 
-![Altynai Nurkamilova](/img/altynai.jpg "Altynai Nurkamilova")
+<link href="/css/style.css" rel="stylesheet"></link>
 
-
+ # Altynai Nurkamilova 
+ 
  _Drupal developer based in Bishkek, Kyrgyzstan_ <br>
 
 [Email](mailto:altynaynurkamilova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/altynaynurkamilova/) / [GitHub](https://github.com/altynaynurkamilova/) / [Telegram](https://t.me/altynayna/)
+
+![Altynai Nurkamilova](/img/altynai.jpg#thumbnail "Altynai Nurkamilova")
 
 ## 👩🏼‍🎓 Education
 ```markdown
