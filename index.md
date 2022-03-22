@@ -1,6 +1,4 @@
-<link href="/css/style.css" rel="stylesheet"></link>
-
- # Altynai Nurkamilova 
+# Altynai Nurkamilova 
  
  _Drupal developer based in Bishkek, Kyrgyzstan_ <br>
 
