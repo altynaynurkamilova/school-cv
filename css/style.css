@@ -1,3 +1,83 @@
-h1 {
-  color: red;
+@font-face {
+  font-family: "Montserrat-Medium";
+  src: local("Montserrat-Medium"),
+  url("../fonts/Montserrat-Medium.otf");
+}
+.text-center {
+  text-align: center;
+}
+.text-left {
+  text-align: left;
+}
+.text-uppercase {
+  text-transform: uppercase;
+}
+.body {
+  background-color: var(--beige);
+}
+.bg-gray {
+  background-color: var(--gray);
+}
+.bg-white {
+  background-color: var(--white);
+}
+.dark-gray {
+  color: var(--dark-gray);
+}
+.font-medium {
+  font-family: "Montserrat-Medium";
+}
+.border-bottom {
+  border-bottom: 2px solid var(--black);
+}
+.mgb-30 {
+  margin-bottom: 30px;
+}
+.mglr-50 {
+  margin: 0 50px;
+}
+.mgt-90 {
+  margin-top: 90px;
+}
+.mgb-90 {
+  margin-bottom: 90px;
+}
+.mgb-25 {
+  margin-bottom: 25px;
+}
+#page {
+  max-width: 1140px;
+  margin: 30px auto;
+}
+.card-profile img {
+  border-radius: 150px;
+}
+.card-profile p {
+  font-size: 1.4rem;
+}
+.card-contact ol li{
+  list-style-type: none;
+  margin: 0 0 0.25rem;
+}
+.card-contact li svg, .card-social-pages svg, .card-skills svg{
+  width: 20px;
+  height: 20px;
+  margin-right: 20px;
+}
+h4 {
+  margin: 0 0 0.2rem;
+}
+.col-xl-7 h2 {
+  width: 351px;
+}
+.card-work-experience ol li, .card-skills ol li{
+  list-style-type: none;
+  margin: 0 0 0.25rem;
+}
+.card-skills ol{
+  columns: 2;
+  -webkit-columns: 2;
+  -moz-columns: 2;
+  margin: 0;
+  padding: 0;
 }
