@@ -4,7 +4,7 @@
 
 [Email](mailto:altynaynurkamilova@gmail.com) / [LinkedIn](https://www.linkedin.com/in/altynaynurkamilova/) / [GitHub](https://github.com/altynaynurkamilova/) / [Telegram](https://t.me/altynayna/)
 
-![Altynai Nurkamilova](/img/altynai.jpg#thumbnail "Altynai Nurkamilova")
+![Altynai Nurkamilova](../images/altynai.jpg#thumbnail "Altynai Nurkamilova")
 
 ## 👩🏼‍🎓 Education
 ```markdown
